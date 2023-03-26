@@ -1,0 +1,6 @@
+{
+    "port": "COM13",
+    "board": "arduino:avr:uno",
+    "programmer": "avrisp",
+    "sketch": "Contrôler_moteur_v2\\Contr_ler_moteur_v2\\Contr_ler_moteur_v2.ino"
+}
